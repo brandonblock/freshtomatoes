@@ -22,12 +22,12 @@ movie_d = media.Movie("Escape From New York",
                       "https://upload.wikimedia.org/wikipedia/en/4/4b/EscapefromNYposter.jpg",
                       "https://www.youtube.com/watch?v=8-LDW7tWwAI")
 
-movie_e = media.Movie("Prince of Darkness",
+movie_f = media.Movie("Prince of Darkness",
                       "An ancient mystery draws in a research team and forces them to confront their own dark pasts.",
                       "https://upload.wikimedia.org/wikipedia/en/e/e9/Prince_of_darkness.jpg",
                       "https://www.youtube.com/watch?v=PKI2kI6Flw0")
 
-movie_f = media.Movie("They Live",
+movie_s = media.Movie("They Live",
                       "Work. Buy. Die.",
                       "https://upload.wikimedia.org/wikipedia/en/3/3d/1988They_Live_poster300.jpg",
                       "https://www.youtube.com/watch?v=KLRafyWhzG4")
