@@ -4,3 +4,4 @@ class Movie():
         self.storyline = storyline
         self.poster_image_url = image
         self.trailer_youtube_url = trailer
+        
