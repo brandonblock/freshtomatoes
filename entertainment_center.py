@@ -28,7 +28,7 @@ movie_f = media.Movie("Prince of Darkness",
                       "https://upload.wikimedia.org/wikipedia/en/e/e9/Prince_of_darkness.jpg",
                       "https://www.youtube.com/watch?v=PKI2kI6Flw0")
 
-movie_s = media.Movie("They Live",
+movie_e = media.Movie("They Live",
                       "Work. Buy. Die.",
                       "https://upload.wikimedia.org/wikipedia/en/3/3d/1988They_Live_poster300.jpg",
                       "https://www.youtube.com/watch?v=KLRafyWhzG4")
